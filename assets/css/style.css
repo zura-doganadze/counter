@@ -33,3 +33,10 @@
   color: #d4cece;
 
 }
+
+@media (max-width: 600px) {
+    .btn-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+}
