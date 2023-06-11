@@ -1,4 +1,7 @@
 
+body {
+    background-color: #c8acac;
+}
 .content-wrapper {
     display: flex;
     flex-direction: column;
